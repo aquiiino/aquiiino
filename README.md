@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧑‍💻 Tenho 21 anos<br>📚 Estudante de Análise e Desenvolvimento de Sistemas na FIAP<br>🎯 Trabalho com Dados, mas meu foco está em me tornar um desenvolvedor Back-end Java <br>🏅 Já fui finalista em um Hackathon da IBM em parceria com a HP, com projeto voltado para IA e automação<br>🥋 Sou atleta e competidor de Jiu-jítsu</p>
+<p align="left">🧑‍💻 Tenho 22 anos<br>📚 Estudante de Análise e Desenvolvimento de Sistemas na FIAP<br>🎯 Trabalho com Dados, mas meu foco está em me tornar um desenvolvedor Back-end Java <br>🏅 Já fui finalista em um Hackathon da IBM em parceria com a HP, com projeto voltado para IA e automação<br>🥋 Sou atleta e competidor de Jiu-jítsu</p>
 
 ###
 
